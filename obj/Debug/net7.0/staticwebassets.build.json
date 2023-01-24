@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QY8+Ra1ncVjAHn/b9FXMKD/1VTCXXPjPGPr9d8doI48=",
+  "Hash": "sFcQKaYyszXkqQQD9ULboHDzaZATUJA28IIP/gZKfrE=",
   "Source": "BlazorServerSignalRApp",
   "BasePath": "_content/BlazorServerSignalRApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorServerSignalRApp/wwwroot",
       "Source": "BlazorServerSignalRApp",
-      "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/",
+      "ContentRoot": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/",
       "BasePath": "_content/BlazorServerSignalRApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/obj/Debug/net7.0/scopedcss/bundle/BlazorServerSignalRApp.styles.css",
+      "Identity": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/obj/Debug/net7.0/scopedcss/bundle/BlazorServerSignalRApp.styles.css",
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/obj/Debug/net7.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/obj/Debug/net7.0/scopedcss/bundle/",
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "BlazorServerSignalRApp.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/obj/Debug/net7.0/scopedcss/bundle/BlazorServerSignalRApp.styles.css"
+      "OriginalItemSpec": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/obj/Debug/net7.0/scopedcss/bundle/BlazorServerSignalRApp.styles.css"
     },
     {
-      "Identity": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/obj/Debug/net7.0/scopedcss/projectbundle/BlazorServerSignalRApp.bundle.scp.css",
+      "Identity": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/obj/Debug/net7.0/scopedcss/projectbundle/BlazorServerSignalRApp.bundle.scp.css",
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/obj/Debug/net7.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/obj/Debug/net7.0/scopedcss/projectbundle/",
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "BlazorServerSignalRApp.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/obj/Debug/net7.0/scopedcss/projectbundle/BlazorServerSignalRApp.bundle.scp.css"
+      "OriginalItemSpec": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/obj/Debug/net7.0/scopedcss/projectbundle/BlazorServerSignalRApp.bundle.scp.css"
     },
     {
-      "Identity": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/css/bootstrap/bootstrap.min.css",
+      "Identity": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/css/bootstrap/bootstrap.min.css",
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/",
+      "ContentRoot": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/",
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "Identity": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/css/bootstrap/bootstrap.min.css.map",
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/",
+      "ContentRoot": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/",
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot/css/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/css/open-iconic/FONT-LICENSE",
+      "Identity": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/css/open-iconic/FONT-LICENSE",
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/",
+      "ContentRoot": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/",
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/FONT-LICENSE"
     },
     {
-      "Identity": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "Identity": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/",
+      "ContentRoot": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/",
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "Identity": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/",
+      "ContentRoot": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/",
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.eot"
     },
     {
-      "Identity": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "Identity": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/",
+      "ContentRoot": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/",
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.otf"
     },
     {
-      "Identity": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "Identity": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/",
+      "ContentRoot": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/",
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.svg"
     },
     {
-      "Identity": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "Identity": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/",
+      "ContentRoot": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/",
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.ttf"
     },
     {
-      "Identity": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "Identity": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/",
+      "ContentRoot": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/",
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/font/fonts/open-iconic.woff"
     },
     {
-      "Identity": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/css/open-iconic/ICON-LICENSE",
+      "Identity": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/css/open-iconic/ICON-LICENSE",
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/",
+      "ContentRoot": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/",
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/ICON-LICENSE"
     },
     {
-      "Identity": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/css/open-iconic/README.md",
+      "Identity": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/css/open-iconic/README.md",
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/",
+      "ContentRoot": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/",
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot/css/open-iconic/README.md"
     },
     {
-      "Identity": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/css/site.css",
+      "Identity": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/css/site.css",
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/",
+      "ContentRoot": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/",
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/favicon.png",
+      "Identity": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/favicon.png",
       "SourceId": "BlazorServerSignalRApp",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/wwwroot/",
+      "ContentRoot": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/wwwroot/",
       "BasePath": "_content/BlazorServerSignalRApp",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

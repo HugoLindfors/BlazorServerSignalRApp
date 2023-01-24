@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorServerSignalRApp
 build_property.RootNamespace = BlazorServerSignalRApp
-build_property.ProjectDir = /Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/
+build_property.ProjectDir = /Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp
+build_property.MSBuildProjectDirectory = /Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/App.razor]
+[/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/Pages/Counter.razor]
+[/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/Pages/FetchData.razor]
+[/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/Pages/Index.razor]
+[/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/Pages/Todo.razor]
+[/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/Pages/Todo.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVG9kby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/Shared/SurveyPrompt.razor]
+[/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/_Imports.razor]
+[/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/Shared/MainLayout.razor]
+[/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-lf1lpu2wcy
 
-[/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/Shared/NavMenu.razor]
+[/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-1ucwe84xj5
 
-[/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/Pages/Error.cshtml]
+[/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/Pages/_Host.cshtml]
+[/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

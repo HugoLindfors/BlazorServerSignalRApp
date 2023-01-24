@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/BlazorServerSignalRApp.csproj": {}
+    "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/BlazorServerSignalRApp.csproj": {}
   },
   "projects": {
-    "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/BlazorServerSignalRApp.csproj": {
+    "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/BlazorServerSignalRApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/BlazorServerSignalRApp.csproj",
+        "projectUniqueName": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/BlazorServerSignalRApp.csproj",
         "projectName": "BlazorServerSignalRApp",
-        "projectPath": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/BlazorServerSignalRApp.csproj",
-        "packagesPath": "/Users/hugo.lindfors3/.nuget/packages/",
-        "outputPath": "/Users/hugo.lindfors3/Source/Repos/Japan/BlazorServerSignalRApp/obj/",
+        "projectPath": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/BlazorServerSignalRApp.csproj",
+        "packagesPath": "/Users/markusrobert.piotro/.nuget/packages/",
+        "outputPath": "/Users/markusrobert.piotro/Repos/BlazorServerSignalRApp-1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/hugo.lindfors3/.nuget/NuGet/NuGet.Config"
+          "/Users/markusrobert.piotro/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }

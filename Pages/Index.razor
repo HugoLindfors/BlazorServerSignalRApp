@@ -1,5 +1,8 @@
 ﻿@page "/"
 @using Microsoft.AspNetCore.SignalR.Client
+@using System.Text.Json
+@using System.Text.Json.Serialization
+@inject IHttpClientFactory ClientFactory
 @inject NavigationManager Navigation
 @implements IAsyncDisposable
 
@@ -17,6 +20,14 @@
         <input @bind="messageInput" size="50" />
     </label>
 </div>
+<div>
+    <select name="langSelect" @bind="langInput">
+        <option value="none">None</option>
+        <option value="JA">Japanese</option>
+        <option value="SV">Swedish</option>            
+        <option value="EN">English</option>
+    </select>
+</div>
 <button @onclick="Send" disabled="@(!IsConnected)">Send</button>
 
 <hr>
@@ -33,6 +44,7 @@
     private List<string> messages = new List<string>();
     private string? userInput;
     private string? messageInput;
+    private string? langInput;
 
     protected override async Task OnInitializedAsync()
     {
@@ -54,12 +66,41 @@
     {
         if (hubConnection is not null)
             {
-                await hubConnection.SendAsync("SendMessage", userInput, messageInput);
+                string message = messageInput;
+                if(langInput != "none")
+                {
+                    message = await Translate(messageInput, langInput);
+                }
+
+                await hubConnection.SendAsync("SendMessage", userInput, message);
             }
     }
 
     public bool IsConnected =>
         hubConnection?.State == HubConnectionState.Connected;
+
+    private async Task<String> Translate(string message, string language)
+    {
+        var request = new HttpRequestMessage(HttpMethod.Post,
+        "https://api-free.deepl.com/v2/translate?text=" + message + "&target_lang=" + language);
+
+        request.Headers.Add("Authorization", "DeepL-Auth-Key 4bc41adc-d3a2-eeb3-c933-068f2a95b415:fx");
+        request.Headers.Add("User-Agent", "HttpClientFactory-Sample");
+
+        var client = ClientFactory.CreateClient();
+
+        var response = await client.SendAsync(request);
+
+        if (response.IsSuccessStatusCode)
+        {
+            string res = await response.Content.ReadAsStringAsync();
+            Console.WriteLine(res);
+            TranslationResponse data = JsonSerializer.Deserialize<TranslationResponse>(res);
+            return data.Translations[0].Text;
+        }
+
+        return "";
+    }
 
     public async ValueTask DisposeAsync()
     {
@@ -67,5 +108,20 @@
         {
             await hubConnection.DisposeAsync();
         }
+    }
+
+     public class Translation
+    {
+        [JsonPropertyName("detected_source_language")]
+        public string? Language { get; set; }
+
+        [JsonPropertyName("text")]
+        public string? Text { get; set; }
+    }
+    
+    public class TranslationResponse
+    {
+        [JsonPropertyName("translations")]
+        public List<Translation>? Translations { get; set; }
     }
 }
